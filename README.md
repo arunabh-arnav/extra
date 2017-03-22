@@ -1,2 +1,1 @@
-# extra
-All projects currently in test/in work phase
+All these works are in-progress or for test purposes only.
