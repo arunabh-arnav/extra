@@ -7,11 +7,17 @@
 	<fstream>
 	<sstream>
 
-1490682030 source:c:\users\aarnav\git\extra\main.cpp
+1490708964 source:c:\users\aarnav\git\extra\main.cpp
 	<iostream>
 	<cstdlib>
 	<vector>
 	<queue>
 	<fstream>
 	<sstream>
+	<iomanip>
+	<stdio.h>
+	<stack>
+	<getopt.h>
+	<stdlib.h>
+	<ctype.h>
 
